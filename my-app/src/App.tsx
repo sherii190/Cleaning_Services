@@ -7,10 +7,10 @@ function App() {
     return (
         <>
             <Routes>
-
-            <Route path="/Home" element={<Bootstrap/>}>
-            </Route>
+                <Route path="/Home" element={<Bootstrap/>}>
+                </Route>
             </Routes>
+            
         </>
     )
         
